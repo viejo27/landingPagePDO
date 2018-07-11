@@ -25,6 +25,6 @@ nav .link-title-nav {
   font-size: 3x;
 }
 
-#contactar-form .card > .card-header {
-  color: 084680;
+.card .form-header {
+  color: #084680;
 }
