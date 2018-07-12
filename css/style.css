@@ -1,0 +1,43 @@
+body {
+  background: linear-gradient( rgba(8, 70, 128, 0.7), rgba(1, 18, 35, 0.8) ), url('../images/bg-landing.jpg');
+  -webkit-background: linear-gradient( rgba(8, 70, 128, 0.7), rgba(1, 18, 35, 0.8) ), url('../images/bg-landing.jpg');
+  -moz-background: linear-gradient( rgba(8, 70, 128, 0.7), rgba(1, 18, 35, 0.8) ), url('../images/bg-landing.jpg');
+  -o-background: linear-gradient( rgba(8, 70, 128, 0.7), rgba(1, 18, 35, 0.8) ), url('../images/bg-landing.jpg');
+  background-size: cover;
+  -webkit-background-size:cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+}
+
+nav .link-title-nav {
+  color: #ffffff;
+}
+
+.jumbotron h1 {
+  text-align: center;
+}
+
+.list-services ul li {
+  list-style-type: none;
+  font-size: 1.2rem;
+}
+
+.list-services ul li i {
+  color: #2ECC71;
+
+}
+
+#contactar-section .form-header {
+  color: #084680;
+}
+#contactar-section button {
+  background-color: #2ECC71;
+  color: #084680;
+}
+
+a:link, a:visited, a:hover, a:active{
+    text-decoration: none;
+    color: inherit;
+}
